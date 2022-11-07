@@ -8,7 +8,7 @@
   "description": "back-end catstronauts app",
   "main": "src/index.js",
   "scripts": {
-    "start": "npm start"
+    "start": "node app.js"
   },
   "dependencies": {
     "apollo-datasource-rest": "^3.7.0",
