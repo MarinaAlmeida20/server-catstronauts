@@ -2,7 +2,8 @@
   "name": "catstronauts-server",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "16.15.0",
+    "npm": "8.19.2"
   },
   "description": "back-end catstronauts app",
   "main": "src/index.js",
